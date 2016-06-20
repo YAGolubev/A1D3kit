@@ -1,0 +1,11 @@
+{
+    "name": "kit",
+    "description": "kit",
+    "version": "0.0.1",
+    "dependencies": {
+        "angular": "latest",
+        "angular-mocks": "latest",
+        "d3": "^3.5.9",
+        "sanitize-css": "latest"
+    }
+}
