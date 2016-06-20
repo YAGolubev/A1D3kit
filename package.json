@@ -6,7 +6,10 @@
         "express": "latest",
         "jade": "latest"
     },
-      "devDependencies": {
-
+    "devDependencies": {
+        "gulp": "latest",
+        "gulp-sass": "latest",
+        "gulp-rename": "latest",
+        "browser-sync": "latest"
     }
 }
