@@ -1,4 +1,3 @@
-body {
-  background: grey;
-  margin: 5rem;
-}
+@import "../../vendor/sanitize-css/lib/sanitize.scss";
+@import "editor";
+@import "grid";

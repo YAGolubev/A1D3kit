@@ -10,6 +10,12 @@
         "gulp": "latest",
         "gulp-sass": "latest",
         "gulp-rename": "latest",
-        "browser-sync": "latest"
+        "browserify": "latest",
+        "vinyl-source-stream": "latest",
+        "browser-sync": "latest",
+        "gulp-plumber": "latest",
+        "gulp-notify": "latest",
+        "gulp-sourcemaps": "latest",
+        "gulp-autoprefixer": "latest"
     }
 }

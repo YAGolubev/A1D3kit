@@ -1,0 +1,1 @@
+require('../../vendor/angular/angular');
